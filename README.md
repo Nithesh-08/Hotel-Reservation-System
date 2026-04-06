@@ -30,8 +30,8 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 2. Configure your MySQL database settings in the HotelReservationSystem.java file:
    ```
    private static final String DB_URL = "jdbc:mysql://localhost:3306/hotel_db";
-   private static final String DB_USER = "your_username";
-   private static final String DB_PASSWORD = "your_password";
+   private static final String DB_USER = "root";
+   private static final String DB_PASSWORD = "Meena@26";
 
 3. Compile and run the application
 4. Follow the on-screen menu options to use the system.
